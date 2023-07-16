@@ -1,11 +1,11 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Hekcet\Aidynn
 ---
 
 ## About
 LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+excellent at delivering content.asd
 
 ## About, Further
 This second section demonstrates spacing. CSS is kept to a minimum with minor styling
