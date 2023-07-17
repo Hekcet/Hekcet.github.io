@@ -8,4 +8,3 @@ gem "liquid", "~> 4.0.4"
 gem "webrick"
 gem "tzinfo"
 gem "tzinfo-data"
-gem 'jekyll-paginate', '~> 1.1'
